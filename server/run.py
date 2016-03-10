@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-#
-# -----------------------------------------------------------------------------------
-# Copyright (c) Yovole network tech info (Shanghai) Co. Ltd.  All rights reserved.
-# -----------------------------------------------------------------------------------
-
-#!flask/bin/python
 
 from server import app
 

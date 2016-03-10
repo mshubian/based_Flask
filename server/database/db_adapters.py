@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-#
-# -----------------------------------------------------------------------------------
-# Copyright (c) Yovole network tech info (Shanghai) Co. Ltd.  All rights reserved.
-# -----------------------------------------------------------------------------------
 
-
+__author__ = 'hubian'
 
 class SQLAlchemyAdapterMetaClass(type):
     @staticmethod

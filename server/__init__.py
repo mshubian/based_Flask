@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-#
-# -----------------------------------------------------------------------------------
-# Copyright (c) Yovole network tech info (Shanghai) Co. Ltd.  All rights reserved.
-# -----------------------------------------------------------------------------------
 
 __author__ = 'hubian'
 
@@ -12,7 +8,7 @@ from flask_restful import Api
 
 # initialize flask and flask restful
 app = Flask(__name__)
-app.config['SECRET_KEY'] = "sunnycloud!@#"
+app.config['SECRET_KEY'] = "myNameIsHuBian"
 app.debug = True
 
 api = Api(app)
